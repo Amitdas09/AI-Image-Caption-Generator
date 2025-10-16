@@ -91,8 +91,8 @@ Feel free to fork this repo and submit a pull request.
 ## 🧑‍💻 Author
 
 **Your Name**  
-📧 [your.email@example.com]  
-🌐 [your-portfolio-link.com]
+📧 [das285amit@gmail.com]  
+🌐 [(https://amitdas09.github.io/Portfolio-Website/)]
 
 ---
 
