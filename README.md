@@ -61,7 +61,7 @@ This project automatically **generates captions from images** using a pre-traine
 
 | Input Image | Generated Caption |
 |--------------|------------------|
-| ![Example](example.jpg) | *A dog running through the grass* |
+| <img width="1917" height="867" alt="image caption genrator" src="https://github.com/user-attachments/assets/bcba4432-8ace-4f3b-b138-31e8723f4d4e" /> | *A dog running through the grass* |
 
 ---
 
